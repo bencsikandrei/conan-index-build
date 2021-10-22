@@ -1,0 +1,8 @@
+# conan generated lockfiles
+locks
+
+# conan generated builds
+build
+
+# python
+*.pyc
